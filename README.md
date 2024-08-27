@@ -1,2 +1,2 @@
 # test-rep
-just test repo
+just test repos
